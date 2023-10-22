@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larstrk
 - 👀 I’m interested in Coding and Climbing
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on sustainible projects
+- 💞️ I’m looking to collaborate on sustainable projects
 - 📫 How to reach me on [LinkedIn](www.linkedin.com/in/lars-tuerke)
 
 <!---
