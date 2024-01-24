@@ -2,7 +2,7 @@
 
 👀 I’m interested in Coding and Climbing
 
-🌱 I’m currently learning web development
+🌱 I’m currently learning web development with The Odin Project
 
 💞️ I’m looking to collaborate on sustainable projects
 
